@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3733
+
+This is an unofficial syntax file for SPT Group OLGA .key and .genkey files. (There is also partial support for the older .inp format)
+
+OLGA is the market-leading simulator for engineering the flow of oil, water and gas in wells, pipelines and receiving facilities. 
+
+Also available on github: https://github.com/knatten/olga_key
